@@ -1,0 +1,35 @@
+#Heading
+{
+    text-decoration: none;
+    color: rgb(0, 125, 12);
+    font-size: 30px;
+}
+
+.headings
+{
+    color: rgb(0, 92, 54);
+}
+
+body
+{
+    text-align: center;
+    background-image: url(/Images/Background.jpeg);
+    background-size: 1080 px;
+}
+
+.choice-button
+{
+    width: 110px;
+    height: 110px;
+    border: none;
+    border-radius: 50px;
+    margin: 10 px;
+    background-color: rgb(248, 255, 106);
+    cursor: pointer;
+}
+
+.image-button
+{
+    width: 80px;
+    height: 80px;
+}
