@@ -1,0 +1,46 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#heading
+{
+    text-align: center;
+}
+
+.grid-container
+{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 20px;
+    row-gap: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#input-data, #input-date
+{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 10px;
+}
+
+.add-button
+{
+    background-color: rgb(42, 169, 4);
+    color: aliceblue;
+    border: 1px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.delete-button
+{
+    background-color: rgb(216, 17, 17);
+    color: aliceblue;
+    border: 1px;
+    border-radius: 30px;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+
