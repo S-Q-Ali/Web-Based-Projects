@@ -86,6 +86,10 @@ a.action_container:link {
     cursor: pointer;
 }*/
 
+body{
+    background-color: #8c8d911d;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -246,7 +250,9 @@ header {
 
 .item-image
 {
-    width: 100%;
+    width: 280px;
+    height: 360px;
+    border-radius: 10px;
 }
 
 .ratings
